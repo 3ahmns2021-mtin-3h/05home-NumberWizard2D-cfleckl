@@ -1,13 +1,17 @@
 # 05home-NumberWizard2D-cfleckl
+02inclass-NumberWizard-Console-cfleckl
+
 Project description:
 
 Introduction/Project summary
+
 Development platform:
 
-Windows 10, Unity 2020 1.5f1, Visual Studio 2019 16.7.5
+(OS, Unity Version, Visual Studio Version, used SDKs)
+
 Target platform:
 
-Desktop
+WebGL, Mobile, VR Device incl. reference resolution
 Visuals:
 
 Screenshots (concept and experience), Video
